@@ -4,3 +4,10 @@ body{
 h1{
     color: blue;
 }
+
+.hexschool {
+    text-align: center;
+    color: #00cc99;
+    font-size: 24px;
+    font-weight: bold;
+}
