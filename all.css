@@ -1,14 +1,17 @@
-body{
-    color: red;
+body {
+  color: red;
 }
-h1{
-    color: green;
+h1 {
+  color: green;
 }
 
 .hexschool {
-    text-align: center;
-    color: #00cc99;
-    font-size: 24px;
-    font-weight: bold;
+  text-align: center;
+  color: #00cc99;
+  font-size: 24px;
+  font-weight: bold;
 }
 
+.pr20221022 {
+  color: navy;
+}
